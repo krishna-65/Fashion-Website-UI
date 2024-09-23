@@ -6,5 +6,7 @@ This project is a fashion e-commerce website UI, built with HTML and CSS. It off
 Features:
 
 Fully Responsive: Works seamlessly on mobile, tablet, and desktop devices.
+
 Custom CSS: Styled using pure CSS for flexibility and easy customization.
+
 Fashion-Forward Design: Focused on a trendy, visually appealing layout to attract fashion-conscious users.
